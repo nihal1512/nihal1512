@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img  align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471y6efrjhtbziap3oupuj5cg50frz5015oasftxto&rid=giphy.gif&ct=g" alt="">
+<img  align="left" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471y6efrjhtbziap3oupuj5cg50frz5015oasftxto&rid=giphy.gif&ct=g" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal1512&label=Profile%20views&color=0e75b6&style=flat" alt="nihal1512" /> </p>
 
