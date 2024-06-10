@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal1512" alt="nihal1512" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m a **FullStack Flutter and Web Developer**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN & Flutter**
 
-- 📫 How to reach me **sm4002397@gmail.com**
+- 📫 How to reach me **shubnihal@gmail.com**
 
 - ⚡ Fun fact **I think I am little bit sleepy.**
 
